@@ -10,21 +10,20 @@
 ############################
 
 # Name of website
-title: My Website
+title: Jasper Code
 
 # Your name to show in the footer
-author: Some Person
+author: J Davis
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "A novice coder that enjoys product development"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "TBD"
 
 ################
 # --- Logo --- #
@@ -49,13 +48,13 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "ironware@outlook.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+# facebook: 
+  github: ironware
+# twitter: xtian4lyf
+# patreon: jondavis
+# youtube: n/a
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
